@@ -1,6 +1,10 @@
 # ReactNative_lsitApp
 FlatList, and its data property &amp; renderItem func
 
+demo
+
+![Flatlist](https://raw.githubusercontent.com/QueenieCplusplus/ReactNative_listApp/master/demo_for_list.png)
+
 list.js
 
     import * as React from 'react';
